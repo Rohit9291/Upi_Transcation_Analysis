@@ -16,6 +16,8 @@ These insights aim to empower **product, marketing, and operations teams** to ma
 📂 **Dataset**:  
 [UPI Transactions 2024 - Kaggle](https://www.kaggle.com/datasets/skullagos5246/upi-transactions-2024-dataset)
 
+
+## 🛠️ Project Workflow
 <img width="1163" height="503" alt="image" src="https://github.com/user-attachments/assets/c5071d20-7916-4200-94e9-24b538d06f7c" />
 
 
