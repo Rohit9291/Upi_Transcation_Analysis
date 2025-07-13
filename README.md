@@ -108,5 +108,5 @@ Used Tableau to create interactive dashboards based on BigQuery report views.
 ---
 
 ## 📁 Project Structure
-
+<img width="1163" height="503" alt="image" src="https://github.com/user-attachments/assets/c5071d20-7916-4200-94e9-24b538d06f7c" />
 
